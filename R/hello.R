@@ -19,5 +19,5 @@ hello <- function() {
 
 f1 <- function(x)
 {
-  return (x**2)
+  return (x**2 + 1)
 }
